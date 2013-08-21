@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.8.4"],
+    "uuid": "clipper@besnik.de",
+    "name": "clipper",
+    "description": "Simple clipboard manager",
+    "settings-schema": "org.gnome.shell.extensions.clipper"
+}
