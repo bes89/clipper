@@ -1,8 +1,7 @@
-.helloworld-label {
-    font-size: 36px;
-    font-weight: bold;
+.label {
+    font-size: 24px;
     color: #ffffff;
-    background-color: rgba(10,10,10,0.6);
-    border-radius: 15px;
-    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 25px;
+    padding: 20px 35px;
 }

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions">
+
+  <schema path="/org/gnome/shell/extensions/clipper/" id="org.gnome.shell.extensions.clipper">
+
+    <key type="as" name="open-keybinding">
+        <default><![CDATA[['<Alt>v']]]></default>
+    </key>
+
+    <key type="as" name="up-keybinding">
+        <default><![CDATA[['Up']]]></default>
+    </key>
+
+    <key type="as" name="down-keybinding">
+        <default><![CDATA[['Down']]]></default>
+    </key>
+
+    <key type="as" name="select-keybinding">
+        <default><![CDATA[['Return']]]></default>
+    </key>
+
+	<key type="as" name="close-keybinding">
+        <default><![CDATA[['Escape']]]></default>
+    </key>
+
+  </schema>
+
+</schemalist>

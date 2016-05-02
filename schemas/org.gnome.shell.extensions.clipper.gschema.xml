@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<schemalist gettext-domain="gnome-shell-extensions">
-    <schema path="/org/gnome/shell/extensions/clipper/" id="org.gnome.shell.extensions.clipper">
-        <key type="as" name="open-clipper-dialog-keybinding">
-            <default><![CDATA[['<Alt>V']]]></default>
-        </key>
-    </schema>
-</schemalist>

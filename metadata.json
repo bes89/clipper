@@ -1,7 +1,9 @@
 {
-    "shell-version": ["3.8.4"],
-    "uuid": "clipper@besnik.de",
-    "name": "clipper",
-    "description": "Simple clipboard manager",
-    "settings-schema": "org.gnome.shell.extensions.clipper"
+ "extension-id": "clipper",
+ "uuid": "clipper@gnome.besnik.de",
+ "settings-schema": "org.gnome.shell.extensions.clipper",
+ "name": "Clipper",
+ "description": "Clipboard Manager",
+ "shell-version": [ "3.18.5", "3.20" ],
+ "url": "https://github.com/bes89/clipper.git"
 }
