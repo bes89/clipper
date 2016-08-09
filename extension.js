@@ -160,6 +160,7 @@ Clipper.prototype = {
             return false;
         }
 
+        this._isopen = true;
         this._index = 0;
         this._bindNavigationShortcuts();
 
